@@ -26,7 +26,7 @@ Since it opened in 1891, Carnegie Hall has been a center of cultural and politic
 
 The Carnegie Hall Archives maintains a database, the [Orchestra Planning and Administration System (OPAS)](http://fineartssoftware.com/), with a goal to track every event – musical and nonmusical – that has occurred in the public performance spaces of CH since 1891. Since the CH Archives was not established until 1986, there are some gaps in these records, which we continue to fill in using sources like digitized newspaper listings and reviews, and many missing pieces – concert programs, posters, etc. – are donated to us, or we buy them on eBay. This database now covers **more than 50,000 events across nearly all musical genres, as well as theatrical, dance and spoken word events, meetings, lectures, civic rallies, and political conventions**. Also included are corresponding records for more than 100,000 artists, 20,000 composers and over 85,000 musical works.
 
-Starting in 2013, Carnegie Hall began publishing some of these records to the [Performance History Search](https://www.carnegiehall.org/PerformanceHistorySearch/). You can now find the records for more than 45,000 events from 1891 to the present. Data cleanup efforts are ongoing, and new records are published each month. The Carnegie Hall linked data prototype uses this published data set.
+Starting in 2013, Carnegie Hall began publishing some of these records to our [Performance History Search](https://www.carnegiehall.org/PerformanceHistorySearch/). You can now find the records for more than 45,000 events from 1891 to the present. Data cleanup efforts are ongoing, and new records are published each month. The Carnegie Hall linked data prototype uses this published data set.
 
 #### Data Structure
 
