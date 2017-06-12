@@ -5,7 +5,7 @@
 
 The purpose of this repository is to share Carnegie Hall's performance history as linked open data, and resources related to its creation and maintenance. 
 
-You can explore the Carnegie Hall performance history linked open data [here], and read more about it below.
+You can explore the Carnegie Hall performance history linked open data [here](http://data.carnegiehall.org/sparql), and read more about it below.
 
 ## CONTENTS
 
