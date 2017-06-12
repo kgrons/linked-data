@@ -10,7 +10,7 @@ You can explore the Carnegie Hall performance history linked open data [here](ht
 ## CONTENTS
 
 The Carnegie Hall Archives believes in showing its work. To that goal, this repository includes:
-- Link to explore the CH LOD via a SPARQL endpoint for querying, with option to download the entire data set
+- A [SPARQL endpoint](http://data.carnegiehall.org/sparql) for querying the CH LOD, with option to download the entire data set
 - [Python scripts](/scripts/scripts-overview.md) used to transform CSV to LOD serializations
 - An overview of [Carnegie Hall's performance history](#carnegie-hall-performance-history-as-linked-open-data)
 - Documentation about the [structure and content of the Carnegie Hall linked open data](/data-structure.md)
