@@ -34,7 +34,7 @@ How is the Carnegie Hall (CH) performance history represented as linked open dat
 1. **Information that applies to the entire event**.
 2. **Information that applies to each presentation of a work** during an event (a *work performance*). 
 
-The separation of a work performance from the event enables us to demonstrate context. Statements link performers to a specific work performance, rather than generically to an entire event. Let's explore the event data structure further... 
+The separation of a work performance from the event allows for greater specificity. Statements link performers to a particular work performance, rather than generically to an entire event. Let's explore the event data structure further... 
 
 1. Each event has its own Uniform Resource Indentifier (URI) and includes metadata related to: 
       - Date/Time (ISO 8601 date/time string) 
